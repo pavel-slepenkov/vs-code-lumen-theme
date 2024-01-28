@@ -1,8 +1,9 @@
 {
   "name": "lumen-theme",
-  "displayName": "lumen-theme",
-  "description": "Light color theme",
-  "version": "0.0.1",
+  "displayName": "Lumen Theme",
+  "description": "Python-centric light color theme",
+  "version": "0.0.2",
+  "icon": "images/icon.png",
   "license": "BSD-3-Clause",
   "engines": {
     "vscode": "^1.85.0"
@@ -24,5 +25,3 @@
     ]
   }
 }
-
-
