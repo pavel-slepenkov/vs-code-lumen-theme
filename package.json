@@ -2,7 +2,7 @@
   "name": "lumen-theme",
   "displayName": "Lumen Theme",
   "description": "Python-centric light color theme",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "icon": "images/icon.png",
   "license": "BSD-3-Clause",
   "engines": {

@@ -8,3 +8,7 @@
 
 - Add icon
 - Add borders on selection highlight
+
+## [0.0.3] - 2024-02-11
+
+- Update color for python strings
